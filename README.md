@@ -1,1 +1,1 @@
-# hbase_tools
+# hbase_tools## Prerequisites```pip install happybase```
