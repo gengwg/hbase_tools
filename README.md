@@ -1,1 +1,1 @@
-# hbase_tools## Prerequisites```pip install happybase```
+# hbase_tools## Prerequisites```pip install happybase```## UsageChange the hbase server to corresponding name, and run:```./hbase_readonly.sh```
